@@ -1,1 +1,1 @@
-# Bitcoin Price in USD - A Time-Series Analysis
+# Bitcoin Price in USD: A Time-Series Analysis
