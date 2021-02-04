@@ -6,3 +6,7 @@ This project aims to analyze historical Bitcoin price data at 1-minute intervals
 ## Acknowledgements
 
 The data I am using was wonderfully scraped by <a href="https://www.kaggle.com/mczielinski/bitcoin-historical-data">Zielak on Kaggle</a>.
+
+## Dogecoin
+
+Due to recent events that have changed Dogecoin (another cryptocurrency) forever, as of Feburary 3rd, 2021 I will also be analyzing Dogecoin historical value data within this project.
