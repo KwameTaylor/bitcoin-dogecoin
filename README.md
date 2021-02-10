@@ -9,4 +9,4 @@ The data I am using was wonderfully scraped by <a href="https://www.kaggle.com/m
 
 ## Dogecoin
 
-Due to recent events that have changed Dogecoin (another cryptocurrency) forever, as of Feburary 3rd, 2021 I will also be analyzing Dogecoin historical value data within this project.
+Due to recent events that have changed Dogecoin (another cryptocurrency) forever, as of Feburary 3rd, 2021 I will also be analyzing Dogecoin historical value data within this project. Data from <a href="https://www.cryptoarchive.com.au/asset/DOGE">Crypto Archive</a>.
