@@ -1,0 +1,6 @@
+env.py
+*.csv
+*.jpeg
+*.jpg
+*.gz
+*.zip
